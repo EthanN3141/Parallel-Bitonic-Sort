@@ -8,7 +8,7 @@ one side of the array and the rest are contiguously sorted.
 
 2 examples are provided in the main function of this file, one with a preprepared array, and 
 the other using a randomly generated array.
-\\
+
 compile this code using the command (using whatever OpenMP compatible compiler works):
 g++ -fopenmp [flags] -o bitonic_sort parallel_bitonic_sort.cpp
 
